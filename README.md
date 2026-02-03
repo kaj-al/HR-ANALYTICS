@@ -7,7 +7,7 @@ Power Query – Data cleaning and transformation<br>
 DAX (Data Analysis Expressions) – Measures and KPIs<br>
 No coding languages were used. This project is 100% Power BI–based.<br>
 
-Key Features & Insights<br>
+--Key Features & Insights<br>
 Employee Attrition Analysis<br>
 Attrition by Department, Gender, and Job Role<br>
 Average Age, Salary, and Years at Company<br>
@@ -40,8 +40,8 @@ Creating DAX measures and KPIs<br>
 Designing professional dashboards<br>
 Storytelling with data<br>
 
---Future Enhancements
-Add predictive attrition analysis
-Integrate real-time HR data sources
-More advanced DAX-based metrics
-Department-wise performance benchmarking
+--Future Enhancements<br>
+Add predictive attrition analysis<br>
+Integrate real-time HR data sources<br>
+More advanced DAX-based metrics<br>
+Department-wise performance benchmarking<br>
