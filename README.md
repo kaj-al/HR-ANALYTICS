@@ -1,5 +1,5 @@
---HR Analytics Dashboard (Power BI)
-This repository contains an HR Analytics Dashboard built entirely using Power BI. The goal of this project is to analyze key HR metrics and provide actionable insights related to employee attrition, workforce demographics, performance indicators, and organizational trends.
+--HR Analytics Dashboard (Power BI)<br>
+This repository contains an HR Analytics Dashboard built entirely using Power BI. The goal of this project is to analyze key HR metrics and provide actionable insights related to employee attrition, workforce demographics, performance indicators, and organizational trends.<br>
 
 --Tools & Technologies Used
 Power BI Desktop – Data modeling, DAX calculations, and dashboard creation
